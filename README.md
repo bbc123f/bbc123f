@@ -1,6 +1,8 @@
 ### BBC123F
 *Discord: https://discord.gg/kman*
 
+
+![BBC123F's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <!--
 **bbc123f/bbc123f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
