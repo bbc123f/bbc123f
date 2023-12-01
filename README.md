@@ -5,11 +5,10 @@
 *Discord: https://discord.gg/kman*
 
 ### Languages
-C#
-\n
-Javascript
-php
-html/css
+C#,
+Javascript,
+php,
+html/css,
 
 
 
