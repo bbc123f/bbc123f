@@ -1,4 +1,5 @@
-### yo join the discord https://discord.gg/kmanmenu
+### BBC123F
+*Discord: https://discord.gg/kman*
 
 <!--
 **bbc123f/bbc123f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
