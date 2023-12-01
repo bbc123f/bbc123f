@@ -1,7 +1,13 @@
-### BBC123F
+# BBC123F
 *Discord: https://discord.gg/kman*
 
-# j
+### Languages
+C#
+Javascript
+php
+html/css
+
+
 
 ![BBC123F's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbc123f&show_icons=true&theme=radical)
 <!--
