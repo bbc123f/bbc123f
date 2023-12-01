@@ -1,4 +1,7 @@
-# BBC123F
+<p align="center">
+ <img width="100px" src="https://avatars.githubusercontent.com/u/147225264?v=4" align="center" alt="BBC123F" />
+ <h2 align="center">BBC123F</h2>
+</p>
 *Discord: https://discord.gg/kman*
 
 ### Languages
